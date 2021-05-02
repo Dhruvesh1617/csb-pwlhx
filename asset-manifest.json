@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://dhruvesh1617.github.io/csb-pwlhx/static/css/main.2c810e89.chunk.css",
-    "main.js": "https://dhruvesh1617.github.io/csb-pwlhx/static/js/main.4bae2e3b.chunk.js",
-    "main.js.map": "https://dhruvesh1617.github.io/csb-pwlhx/static/js/main.4bae2e3b.chunk.js.map",
+    "main.css": "https://dhruvesh1617.github.io/csb-pwlhx/static/css/main.24491d0a.chunk.css",
+    "main.js": "https://dhruvesh1617.github.io/csb-pwlhx/static/js/main.8603d28b.chunk.js",
+    "main.js.map": "https://dhruvesh1617.github.io/csb-pwlhx/static/js/main.8603d28b.chunk.js.map",
     "runtime-main.js": "https://dhruvesh1617.github.io/csb-pwlhx/static/js/runtime-main.b1fa37c7.js",
     "runtime-main.js.map": "https://dhruvesh1617.github.io/csb-pwlhx/static/js/runtime-main.b1fa37c7.js.map",
     "static/js/2.006e81bf.chunk.js": "https://dhruvesh1617.github.io/csb-pwlhx/static/js/2.006e81bf.chunk.js",
     "static/js/2.006e81bf.chunk.js.map": "https://dhruvesh1617.github.io/csb-pwlhx/static/js/2.006e81bf.chunk.js.map",
     "index.html": "https://dhruvesh1617.github.io/csb-pwlhx/index.html",
-    "static/css/main.2c810e89.chunk.css.map": "https://dhruvesh1617.github.io/csb-pwlhx/static/css/main.2c810e89.chunk.css.map",
+    "static/css/main.24491d0a.chunk.css.map": "https://dhruvesh1617.github.io/csb-pwlhx/static/css/main.24491d0a.chunk.css.map",
     "static/js/2.006e81bf.chunk.js.LICENSE.txt": "https://dhruvesh1617.github.io/csb-pwlhx/static/js/2.006e81bf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b1fa37c7.js",
     "static/js/2.006e81bf.chunk.js",
-    "static/css/main.2c810e89.chunk.css",
-    "static/js/main.4bae2e3b.chunk.js"
+    "static/css/main.24491d0a.chunk.css",
+    "static/js/main.8603d28b.chunk.js"
   ]
 }
